@@ -7,7 +7,7 @@ Codepath Prework project
 Using Android Studio to program an app to change the background, text color, and text information using a button as an user interface.
 
 ### App Walk-though
-<img src="http://g.recordit.co/GweYtBBl6u.gif" width=200><br>
+<img src="http://g.recordit.co/SD3m64JWyI.gif" width=200><br>
 
 
 

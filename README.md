@@ -7,8 +7,7 @@ Codepath Prework project
 Using Android Studio to program an app to change the background, text color, and text information using a button as an user interface.
 
 ### App Walk-though
-I am currently in the Dominican Republic and have very limited internet. I recorded my screen using Recordit but could not generate the GIF link due to very slow upload speeds. I can upload or email the GIF after I come back on September 12th if possible. I hope you understand.
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/GweYtBBl6u.gif" width=200><br>
 
 
 

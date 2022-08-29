@@ -35,7 +35,7 @@ class MainActivity() : AppCompatActivity() {
         }
 
         findViewById<Button>(R.id.button3).setOnClickListener {
-            findViewById<TextView>(R.id.backgroundView).setBackgroundColor(R.color.white)
+            findViewById<TextView>(R.id.backgroundView).setBackgroundResource(R.color.white)
         }
     }
 }

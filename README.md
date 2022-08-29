@@ -1,7 +1,7 @@
 # Codepath
 Codepath Prework project
 
-## NAME_OF_YOUR_APP_HERE
+## Hello World
 
 ### App Description
 Using Android Studio to program an app to change the background, text color, and text information using a button as an user interface.

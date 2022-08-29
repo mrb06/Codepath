@@ -7,8 +7,7 @@ Codepath Prework project
 Using Android Studio to program an app to change the background, text color, and text information using a button as an user interface.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
+I am currently in the Dominican Republic and uploading the GIF of the recorded video using the Recordit app is not working. I can submit the recording at a later time past the prework deadline. I hope you understand.
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
 

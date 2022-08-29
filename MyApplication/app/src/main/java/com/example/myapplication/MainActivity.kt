@@ -3,17 +3,12 @@ package com.example.myapplication
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.Parcel
-import android.os.Parcelable
 import android.util.Log
 import android.widget.Button
 import android.widget.TextView
 
 
-class MainActivity() : AppCompatActivity(), Parcelable {
-
-    constructor(parcel: Parcel) : this() {
-    }
+class MainActivity() : AppCompatActivity() {
 
     @SuppressLint("ResourceAsColor")
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -41,24 +36,6 @@ class MainActivity() : AppCompatActivity(), Parcelable {
 
         findViewById<Button>(R.id.button3).setOnClickListener {
             findViewById<TextView>(R.id.backgroundView).setBackgroundColor(R.color.white)
-        }
-    }
-
-    override fun writeToParcel(parcel: Parcel, flags: Int) {
-
-    }
-
-    override fun describeContents(): Int {
-        return 0
-    }
-
-    companion object CREATOR : Parcelable.Creator<MainActivity> {
-        override fun createFromParcel(parcel: Parcel): MainActivity {
-            return MainActivity(parcel)
-        }
-
-        override fun newArray(size: Int): Array<MainActivity?> {
-            return arrayOfNulls(size)
         }
     }
 }
